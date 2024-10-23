@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Home Page
+landing-title: 'Substance Use and Mental Health Awareness'
 description: null
 image: null
 author: null
