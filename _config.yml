@@ -1,5 +1,7 @@
 # site settings
-remote_theme: Forty
+remote_theme: andrewbanchich/forty-jekyll-theme
+plugins:
+  - jekyll-remote-theme
 title: Forty
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
