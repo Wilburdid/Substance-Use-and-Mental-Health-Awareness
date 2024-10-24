@@ -69,10 +69,10 @@ D) No, caffeine isn’t a drug, but is a stimulant.<br>
 		<header class="major">
 			<h2>3. What is categorized as a Schedule III controlled substance ?</h2>
 		</header>
-		<p>A) Methamphetamine 
-B) Ketamine
-C) Cocaine
-D) Psilocybe
+		<p>A) Methamphetamine <br>
+B) Ketamine<br>
+C) Cocaine<br>
+D) Psilocybe<br>
 
 		</p>
 		<button onclick="revealText('hiddenText3')">Click to Reveal Answer</button>
@@ -85,10 +85,10 @@ D) Psilocybe
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText4')">Click to Reveal Answer</button>
 		<p id="hiddenText4" style="display: none;">B) Cocaine</p>
@@ -100,10 +100,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText5')">Click to Reveal Answer</button>
 		<p id="hiddenText5" style="display: none;">B) Cocaine</p>
@@ -115,10 +115,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText6')">Click to Reveal Answer</button>
 		<p id="hiddenText6" style="display: none;">B) Cocaine</p>
@@ -130,10 +130,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText7')">Click to Reveal Answer</button>
 		<p id="hiddenText7" style="display: none;">B) Cocaine</p>
@@ -145,10 +145,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText8')">Click to Reveal Answer</button>
 		<p id="hiddenText8" style="display: none;">B) Cocaine</p>
@@ -160,10 +160,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText9')">Click to Reveal Answer</button>
 		<p id="hiddenText9" style="display: none;">B) Cocaine</p>
@@ -175,10 +175,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText10')">Click to Reveal Answer</button>
 		<p id="hiddenText10" style="display: none;">B) Cocaine</p>
@@ -190,10 +190,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText11')">Click to Reveal Answer</button>
 		<p id="hiddenText11" style="display: none;">B) Cocaine</p>
@@ -205,10 +205,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText12')">Click to Reveal Answer</button>
 		<p id="hiddenText12" style="display: none;">B) Cocaine</p>
@@ -220,10 +220,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText13')">Click to Reveal Answer</button>
 		<p id="hiddenText13" style="display: none;">B) Cocaine</p>
@@ -235,10 +235,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText14')">Click to Reveal Answer</button>
 		<p id="hiddenText14" style="display: none;">B) Cocaine</p>
@@ -250,10 +250,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText15')">Click to Reveal Answer</button>
 		<p id="hiddenText15" style="display: none;">B) Cocaine</p>
@@ -265,10 +265,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText16')">Click to Reveal Answer</button>
 		<p id="hiddenText16" style="display: none;">B) Cocaine</p>
@@ -280,10 +280,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText17')">Click to Reveal Answer</button>
 		<p id="hiddenText17" style="display: none;">B) Cocaine</p>
@@ -295,10 +295,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText18')">Click to Reveal Answer</button>
 		<p id="hiddenText18" style="display: none;">B) Cocaine</p>
@@ -310,10 +310,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText19')">Click to Reveal Answer</button>
 		<p id="hiddenText19" style="display: none;">B) Cocaine</p>
@@ -325,10 +325,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText20')">Click to Reveal Answer</button>
 		<p id="hiddenText20" style="display: none;">B) Cocaine</p>
@@ -340,10 +340,10 @@ D) Diazepam<br>
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A)<br>
+B)<br>
+C)<br>
+D)<br>
 		</p>
 		<button onclick="revealText('hiddenText21')">Click to Reveal Answer</button>
 		<p id="hiddenText21" style="display: none;">B) Cocaine</p>
