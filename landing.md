@@ -35,7 +35,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>1. Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
 		<p>A) Heroin<br>
 B) Cocaine<br>
@@ -50,12 +50,14 @@ D) Diazepam<br>
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>2. Is Caffeine a drug, if so what is classified as?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>
+A) Yes, it is a drug; depressant<br>
+B) Yes, it is a drug; stimulant<br>
+C) No, caffeine can’t be a drug <br>
+D) No, caffeine isn’t a drug, but is a stimulant.<br>
+
 		</p>
 		<button onclick="revealText('hiddenText2')">Click to Reveal Answer</button>
 		<p id="hiddenText2" style="display: none;">B) Cocaine</p>
@@ -65,12 +67,13 @@ D) Diazepam<br>
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>3. What is categorized as a Schedule III controlled substance ?</h2>
 		</header>
-		<p>A) Heroin<br>
-B) Cocaine<br>
-C) Caffeine<br>
-D) Diazepam<br>
+		<p>A) Methamphetamine 
+B) Ketamine
+C) Cocaine
+D) Psilocybe
+
 		</p>
 		<button onclick="revealText('hiddenText3')">Click to Reveal Answer</button>
 		<p id="hiddenText3" style="display: none;">B) Cocaine</p>
