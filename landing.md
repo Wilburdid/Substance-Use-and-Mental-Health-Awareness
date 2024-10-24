@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Quiz
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Test your knowledge in our quick quiz!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
