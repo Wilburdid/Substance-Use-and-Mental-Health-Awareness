@@ -18,10 +18,30 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Addiction</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>
+Marijuana Anonymous 1-800-766-6779<br>
+Alcohol Treatment Referral Hotline (24 hours) 1-800-252-6465<br>
+Families Anonymous 1-800-736-9805<br>
+Cocaine Hotline (24 hours) 1-800-262-2463<br>
+Drug Abuse National Helpline 1-800-662-4357<br>
+National Association for Children of Alcoholics 1-888-554-2627<br>
+Ecstasy Addiction 1-800-468-6933<br>
+Alcoholics for Christ 1-800-441-7877<br>
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h2>Abuse</h2>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+National Sexual Assault Hotline 1-800-656-HOPE (4673)<br>
+Stop it Now! 1-888-PREVENT<br>
+United States Elder Abuse Hotline 1-866-363-4276<br>
+National Child Abuse Hotline 1-800-4-A-CHILD (422-4453)<br>
+Child Abuse Hotline / Dept of Social Services 1-800-342-3720<br>
+Child Abuse National Hotline 1-800-25ABUSE<br>
+Children in immediate danger 1-800-THE-LOST<br>
+Exploitation of Children 1-800-843-5678<br>
+Missing Children Help Center 1-800-872-5437<br>
+988 Suicide & Crisis Lifeline<br>
+</p>
 	</div>
 	
