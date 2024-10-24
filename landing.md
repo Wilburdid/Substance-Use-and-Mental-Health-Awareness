@@ -5,7 +5,6 @@ description: 'Test your knowledge in our quick quiz!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
