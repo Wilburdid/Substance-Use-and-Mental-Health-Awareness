@@ -157,142 +157,156 @@ C) It has no effect on cognitive functions or brain structure.<br>
 D) It increases the production of neurotransmitters, enhancing communication between neurons.<br>
 		</p>
 		<button onclick="revealText('hiddenText8')">Click to Reveal Answer</button>
-		<p id="hiddenText8" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText8" style="display: none;">B) It leads to structural changes, a loss of dendritic spines and reduced synaptic plasticity, the ability of synapses (the connections between neurons) to strengthen or weaken over time in response to increases or decreases in their activity. This process is fundamental to learning, memory, and overall brain function.
+Explanation: Prolonged drug use can impair neuroplasticity by disrupting communication between neurons, leading to structural changes in the brain. This includes the loss of dendritic spines and reduced synaptic. </p>
 	</div>
 </section>
 <!-- Nine -->
 <section id="nine">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>9. What is a significant long-term consequence of opioid use?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Improved cognitive function<br>
+B) Enhanced social relationships<br>
+C) Highly addictive potential and painful withdrawals<br>
+D) Increased physical endurance<br>
 		</p>
 		<button onclick="revealText('hiddenText9')">Click to Reveal Answer</button>
-		<p id="hiddenText9" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText9" style="display: none;"> C) Highly addictive potential and painful withdrawals
+Explanation: Opioids are highly addictive, and as tolerance builds, users may need more of the drug to achieve the same effects, leading to painful withdrawal symptoms when trying to quit.</p>
 	</div>
 </section>
 <!-- Ten -->
 <section id="ten">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>10. Which of the following is a potential long-term effect of stimulant use?
+</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Increased social connections<br>
+B) Long-term insomnia and extreme weight changes<br>
+C) Enhanced physical health<br>
+D) Decreased anxiety levels<br>
 		</p>
 		<button onclick="revealText('hiddenText10')">Click to Reveal Answer</button>
-		<p id="hiddenText10" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText10" style="display: none;">B) Long-term insomnia and extreme weight changes
+Explanation: Stimulants can lead to long-term insomnia and significant changes in weight due to their effects on energy levels and metabolism.</p>
 	</div>
 </section>
 <!-- Eleven -->
 <section id="eleven">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>11. What is a major risk associated with mixing depressants with alcohol or other drugs?
+</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Improved mood and cognitive function<br>
+B) Increased risk of addiction and seizures<br>
+C) Enhanced physical performance<br>
+D) Decreased tolerance levels<br>
 		</p>
 		<button onclick="revealText('hiddenText11')">Click to Reveal Answer</button>
-		<p id="hiddenText11" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText11" style="display: none;"> B) Increased risk of addiction and seizures
+Explanation: Mixing depressants with alcohol or other drugs can be extremely dangerous, potentially leading to addiction, painful withdrawal, and even death due to respiratory failure or seizures.</p>
 	</div>
 </section>
 <!-- Twelve -->
 <section id="twelve">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>12. Which of the following describes a short-term effect of drug use?h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Risk of long-term organ damage<br>
+B) Changes in heart rate and blood pressure<br>
+C) Development of cognitive decline<br>
+D) Chronic relationship problems<br>
 		</p>
 		<button onclick="revealText('hiddenText12')">Click to Reveal Answer</button>
-		<p id="hiddenText12" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText12" style="display: none;">B) Changes in heart rate and blood pressure
+Explanation: Short-term effects of drug use often include physical changes such as alterations in heart rate, blood pressure, and energy levels, as well as psychological effects like mood changes.</p>
 	</div>
 </section>
 <!-- Thirteen -->
 <section id="thirteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>
+13. What is a significant long-term risk with the use of depressants?
+</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Improved cognitive function<br>
+B) Painful withdrawals and potential seizures<br>
+C) Increased energy levels<br>
+D) Enhanced social interactions<br>
 		</p>
 		<button onclick="revealText('hiddenText13')">Click to Reveal Answer</button>
-		<p id="hiddenText13" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText13" style="display: none;"> B) Painful withdrawals and potential seizures
+Explanation: Long-term use of depressants can lead to addiction, painful withdrawals, and serious health risks like seizures.</p>
 	</div>
 </section>
 <!-- Fourteen -->
 <section id="fourteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>14. What does agonist drugs do in the brain?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) They block neurotransmitter receptors.<br>
+B) They inhibit neurotransmitter reuptake.<br>
+C) They activate receptors and mimic neurotransmitters.<br>
+D) They destroy neurotransmitters.<br>
 		</p>
 		<button onclick="revealText('hiddenText14')">Click to Reveal Answer</button>
-		<p id="hiddenText14" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText14" style="display: none;"> C) They activate receptors and mimic neurotransmitters.
+Explanation: Agonists activate receptors in the brain, often mimicking the effects of natural neurotransmitters.</p>
 	</div>
 </section>
 <!-- Fifteen -->
 <section id="fifteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>15. What is one short-term effect of drug use?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Long-term cognitive decline<br>
+B) Changes in heart rate and blood pressure<br>
+C) Increased tolerance to substances<br>
+D) Enhanced physical health<br>
 		</p>
 		<button onclick="revealText('hiddenText15')">Click to Reveal Answer</button>
-		<p id="hiddenText15" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText15" style="display: none;">B) Changes in heart rate and blood pressure
+Explanation: Short-term drug use can lead to immediate physical changes such as altered heart rate and blood pressure.</p>
 	</div>
 </section>
 <!-- Sixteen -->
 <section id="sixteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>16. Which of the following is a social impact of drug use?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Improved academic performance<br>
+B) Relationship problems and legal issues<br>
+C) Increased community engagement<br>
+D) Enhanced physical fitness<br>
 		</p>
 		<button onclick="revealText('hiddenText16')">Click to Reveal Answer</button>
-		<p id="hiddenText16" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText16" style="display: none;"> B) Relationship problems and legal issues
+Explanation: Drug use can lead to significant social problems, including relationship difficulties and potential legal issues due to illicit activities.</p>
 	</div>
 </section>
 <!-- Seventeen -->
 <section id="seventeen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2></h2>17. What is a potential risk with the recreational use of inhalants?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) They improve cognitive function and memory.<br>
+B) They are completely safe with no health consequences.<br>
+C) They can lead to sudden death due to heart failure or asphyxiation.<br>
+D) They are only harmful when mixed with alcohol.<br>
 		</p>
 		<button onclick="revealText('hiddenText17')">Click to Reveal Answer</button>
-		<p id="hiddenText17" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText17" style="display: none;">C) They can lead to sudden death due to heart failure or asphyxiation.
+Explanation: Inhalants can have severe and potentially fatal health consequences, including sudden cardiac arrest.</p>
 	</div>
 </section>
 <!-- Eighteen -->
