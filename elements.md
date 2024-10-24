@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Get Resources
+description: Learn how to get the help you or a loved one needs.
 image: assets/images/gethelp.jpg
 nav-menu: true
 ---
