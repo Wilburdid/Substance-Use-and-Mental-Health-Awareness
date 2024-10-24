@@ -6,44 +6,6 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Understanding Drugs: A Comprehensive Overview</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        h2 {
-            color: #0056b3;
-            margin-top: 30px;
-        }
-        h3 {
-            color: #007bff;
-            margin-top: 20px;
-        }
-        p {
-            margin: 10px 0;
-        }
-        ul {
-            margin: 10px 0 20px 20px;
-        }
-        footer {
-            margin-top: 40px;
-            font-size: 0.9em;
-            text-align: center;
-            color: #666;
-        }
-    </style>
-</head>
 <body>
 
 <h1>Understanding Drugs: A Comprehensive Overview</h1>
