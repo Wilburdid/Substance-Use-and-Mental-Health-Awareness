@@ -39,7 +39,7 @@ D) Diazepam<br>
   <button onclick="revealText()">Click to Reveal Text</button>
 
   <!-- This text will be hidden at first -->
-  <p id="hiddenText">This is the hidden text that will be revealed when the button is clicked.</p>
+  <p id="hiddenText">B) Cocaine </p>
 
   <script>
     // JavaScript function to reveal the hidden text
