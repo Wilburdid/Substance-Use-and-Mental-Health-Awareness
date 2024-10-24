@@ -35,7 +35,7 @@ D) Diazepam<br>
 </head>
 <body>
 
-  <button onclick="revealText()">Click to Reveal Text</button>
+  <button onclick="revealText()">Click to Reveal Answer</button>
 
   <!-- This text will be hidden at first -->
   <p id="hiddenText">B) Cocaine </p>
