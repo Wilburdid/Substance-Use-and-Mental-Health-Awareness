@@ -215,7 +215,8 @@ Explanation: Mixing depressants with alcohol or other drugs can be extremely dan
 <section id="twelve">
 	<div class="inner">
 		<header class="major">
-			<h2>12. Which of the following describes a short-term effect of drug use?<h2>
+			<h2>12. Which of the following describes a short-term effect of drug use?
+			</h2>
 		</header>
 		<p>A) Risk of long-term organ damage<br>
 B) Changes in heart rate and blood pressure<br>
