@@ -21,7 +21,6 @@ C) Caffeine<br>
 D) Diazepam<br>
 </p>
 	</div>
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
