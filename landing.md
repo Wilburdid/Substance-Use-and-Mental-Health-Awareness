@@ -60,7 +60,7 @@ D) No, caffeine isn’t a drug, but is a stimulant.<br>
 
 		</p>
 		<button onclick="revealText('hiddenText2')">Click to Reveal Answer</button>
-		<p id="hiddenText2" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText2" style="display: none;">b) Caffeine is a stimulant drug because it increases activity in the brain.</p>
 	</div>
 </section>
 <!-- Three -->
@@ -76,7 +76,7 @@ D) Psilocybe<br>
 
 		</p>
 		<button onclick="revealText('hiddenText3')">Click to Reveal Answer</button>
-		<p id="hiddenText3" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText3" style="display: none;">B) Ketamine -  Ketamine is classified as a Schedule III substance due to its accepted medical uses and lower potential for abuse compared to Schedule I or II substances. psilocybin is Schedule I, while methamphetamine and cocaine is Schedule II.</p>
 	</div>
 </section>
 <!-- Four -->
