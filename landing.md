@@ -132,27 +132,29 @@ Explanation: Reuptake inhibitors, such as selective serotonin reuptake inhibitor
 <section id="seven">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>7. What is the primary reason that drug use can lead to an increased risk of overdose due to the dopaminergic system?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Drugs suppress dopamine release completely, leading to withdrawal.<br>
+B) Drugs increase dopamine levels, causing users to require higher doses for the same effect.<br>
+C) The dopaminergic system only responds to natural rewards, not drugs.<br>
+D) Tonic transmission of dopamine is unaffected by drugs.<br>
 		</p>
 		<button onclick="revealText('hiddenText7')">Click to Reveal Answer</button>
-		<p id="hiddenText7" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText7" style="display: none;">B) Drugs increase dopamine levels, causing users to require higher doses for the same effect.
+Explanation: Drugs that affect the dopaminergic system can elevate dopamine levels, which often leads users to seek higher doses to achieve the same pleasurable effects. This cycle can increase the risk of overdose, as seen in the significant number of overdose cases reported.</p>
 	</div>
 </section>
 <!-- Eight -->
 <section id="eight">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>8. How can prolonged drug use affect neuroplasticity in the brain?
+</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) It enhances the formation of new neural connections, improving learning.<br>
+B) It leads to structural changes, such as loss of dendritic spines and reduced synaptic plasticity.<br>
+C) It has no effect on cognitive functions or brain structure.<br>
+D) It increases the production of neurotransmitters, enhancing communication between neurons.<br>
 		</p>
 		<button onclick="revealText('hiddenText8')">Click to Reveal Answer</button>
 		<p id="hiddenText8" style="display: none;">B) Cocaine</p>
