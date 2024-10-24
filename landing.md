@@ -15,10 +15,10 @@ nav-menu: true
 		<header class="major">
 			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
 		</header>
-		<p>A) Heroin\n
-B) Cocaine\n
-C) Caffeine\n
-D) Diazepam\n
+		<p>A) Heroin<br>
+B) Cocaine<br>
+C) Caffeine<br>
+D) Diazepam<br>
 </p>
 	</div>
 </section>
