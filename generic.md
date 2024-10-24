@@ -1,13 +1,32 @@
 ---
 layout: post
-title: Generic
+title: Learn about Substance Use
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
+https://www.theiacp.org/7-drug-categories
+Classification of drugs:  
+By effect classification and type
+Stimulants: Increase alertness and energy due to high heart rate (e.g., caffeine, amphetamines, cocaine meth, nicotine).
+Depressants: Reduce anxiety and induce relaxation (e.g., alcohol, benzodiazepines).
+Hallucinogens: Alter perception and mood (e.g., LSD, psilocybin, mescaline).
+Opioids: Pain relief and euphoria and increase sleepiness  (e.g., morphine, heroin, fentanyl).
+Cannabis: (Marijuana, hashish): Relaxation, altered perception of time, and increased appetite; can also lead to anxiety or paranoia in some users.
+Inhant:  broad range - household & industrial chemicals whose volatile vapors or pressurized gases inhaled = euphoria, dizziness, drowsiness
+Other Categories
+Designer Drugs: Synthetic drugs made to mimic the effects of other drugs (e.g., MDMA, synthetic cannabinoids).
+Performance-Enhancing Drugs: Substances like anabolic steroids used to improve athletic performance.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+By legal status https://nida.nih.gov/research/research-data-measures-resources/nida-drug-supply-program)
+ Prescription drugs: Medications that require a doctor’s prescription for legal use. These are often controlled substances but can also include non-controlled medications.
+Antibiotics, antidepressants, and certain pain relievers.
+Controlled drugs: Drugs that are regulated by law due to their potential for abuse, addiction, or harm.
+Schedule I: High potential for abuse and no accepted medical use (e.g., heroin, LSD).
+Schedule II: High potential for abuse but accepted medical use (e.g., cocaine, oxycodone).
+Schedule III-V: Lower potential for abuse, with various medical uses (e.g., ketamine, benzodiazepines).
+Over-the-counter(OTC) drugs:  Medications that can be purchased without a prescription. These are generally considered safe and effective for public use.
+Pain relievers like ibuprofen and cold medications.
+Recreational drugs: Substances used for pleasure rather than medical purposes. Their legal status varies by country or state.
+Legal: Alcohol, nicotine (tobacco), and in some places, cannabis.
+Illegal: Many other psychoactive substances (e.g., MDMA, Spice/ K2).
