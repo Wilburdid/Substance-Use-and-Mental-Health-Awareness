@@ -83,45 +83,49 @@ D) Psilocybe<br>
 <section id="four">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2> When using hallucinogens, such as LSD or psilocybin mushrooms, why do users often report altered perceptions of reality?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Hallucinogens block dopamine receptors, leading to distorted reality.<br>
+B) They increase serotonin activity in the brain, affecting mood and perception.<br>
+C) Hallucinogens suppress the central nervous system, causing a sedative effect.<br>
+D) They decrease the activity of all neurotransmitters, leading to confusion.<br>
 		</p>
 		<button onclick="revealText('hiddenText4')">Click to Reveal Answer</button>
-		<p id="hiddenText4" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText4" style="display: none;">B) They increase serotonin activity in the brain, affecting mood and perception.-
+Hallucinogens primarily affect the serotonin system, particularly by stimulating serotonin receptors (such as the 5-HT2A receptor) in the brain. This increased activity leads to altered sensory perceptions, changes in mood, and the potential for visual and auditory hallucinations</p>
 	</div>
 </section>
 <!-- Five -->
 <section id="five">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>
+5. How do drugs typically influence synaptic function to alter mood and behavior?
+</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) By directly changing the structure of the neuron<br>
+B) By binding to receptors and modifying neurotransmitter activity<br>
+C) By increasing the speed of action potential transmission<br>
+D) By completely blocking all synaptic communication<br>
 		</p>
 		<button onclick="revealText('hiddenText5')">Click to Reveal Answer</button>
-		<p id="hiddenText5" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText5" style="display: none;">B) By binding to receptors and modifying neurotransmitter activity- Drugs interact with the synapse primarily by binding to receptors, which can enhance or inhibit neurotransmitter activity. This modulation can significantly affect mood, perception, and behavior.</p>
 	</div>
 </section>
 <!-- Six -->
 <section id="six">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>6. Which type of drug is primarily responsible for increasing serotonin levels in the brain to improve mood in patients with depression?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Agonists<br>
+B) Antagonists<br>
+C) Reuptake Inhibitors<br>
+D) Neurotransmitter Blockers<br>
 		</p>
 		<button onclick="revealText('hiddenText6')">Click to Reveal Answer</button>
-		<p id="hiddenText6" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText6" style="display: none;">C) Reuptake Inhibitors
+Explanation: Reuptake inhibitors, such as selective serotonin reuptake inhibitors (SSRIs), work by blocking the reuptake of serotonin, thereby increasing its availability in the synapse. This helps enhance mood and alleviate symptoms of depression. Agonists mimic neurotransmitters, while antagonists block receptor activity, but neither specifically addresses the increase of serotonin levels like reuptake inhibitors do.</p>
 	</div>
 </section>
 <!-- Seven -->
