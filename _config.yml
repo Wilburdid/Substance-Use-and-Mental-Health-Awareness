@@ -5,7 +5,7 @@ plugins:
 
 title: beAware
 subtitle: by Wilbur Liu & Rohin Mainali
-email: youremailaddress@gmail.com
+email: beAwareSUMHA@gmail.com
 description: The Path to Substance Abuse Prevention and Mental Health Awareness
 baseurl: "/Substance-Use-and-Mental-Health-Awareness" # correct subpath for your site
 url: "https://wilburdid.github.io" # base URL for GitHub Pages
