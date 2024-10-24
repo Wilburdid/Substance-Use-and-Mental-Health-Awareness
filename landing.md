@@ -2,7 +2,7 @@
 title: Quiz
 layout: landing
 description: 'Test your knowledge in our quick quiz!'
-image: assets/images/pic07.jpg
+image: assets/images/quiz.jpg
 nav-menu: true
 ---
 <html lang="en">
