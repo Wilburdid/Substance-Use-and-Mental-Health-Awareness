@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learn about Substance Use
-description: Lorem ipsum dolor est
+title: Substance Use
+description: Learn about Substance Use
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
