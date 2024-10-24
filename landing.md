@@ -21,6 +21,38 @@ C) Caffeine<br>
 D) Diazepam<br>
 </p>
 	</div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reveal Hidden Text</title>
+  <style>
+    /* Initially hide the text */
+    #hiddenText {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <button onclick="revealText()">Click to Reveal Text</button>
+
+  <!-- This text will be hidden at first -->
+  <p id="hiddenText">This is the hidden text that will be revealed when the button is clicked.</p>
+
+  <script>
+    // JavaScript function to reveal the hidden text
+    function revealText() {
+      var hiddenText = document.getElementById('hiddenText');
+      // Toggle the display between 'none' and 'block'
+      if (hiddenText.style.display === "none") {
+        hiddenText.style.display = "block";
+      } else {
+        hiddenText.style.display = "none";
+      }
+    }
+  </script>
+
+</body>
 </section>
 
 <!-- Two -->
