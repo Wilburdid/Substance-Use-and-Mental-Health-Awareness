@@ -7,7 +7,7 @@ title: beAware
 subtitle: by Wilbur Liu & Rohin Mainali
 email: beAwareSUMHA@gmail.com
 description: The Path to Substance Abuse Prevention
-baseurl: "/Substance-Use-Awareness" # correct subpath for your site
+baseurl: "/Substance-Use-and-Mental-Health-Awareness" # correct subpath for your site
 url: "https://wilburdid.github.io" # base URL for GitHub Pages
 author:
   name: "Your Name"
