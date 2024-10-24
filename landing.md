@@ -5,7 +5,30 @@ description: 'Test your knowledge in our quick quiz!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <style>
+        /* Optional: Add some basic styles */
+        section {
+            margin: 20px 0;
+        }
+    </style>
+    <script>
+        function revealText(id) {
+            var hiddenText = document.getElementById(id);
+            if (hiddenText.style.display === "none") {
+                hiddenText.style.display = "block";
+            } else {
+                hiddenText.style.display = "none";
+            }
+        }
+    </script>
+</head>
+<body>
 <!-- Main -->
 <div id="main">
 
