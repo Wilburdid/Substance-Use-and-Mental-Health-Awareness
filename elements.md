@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Get Resources
 image: assets/images/gethelp.jpg
 nav-menu: true
 ---
