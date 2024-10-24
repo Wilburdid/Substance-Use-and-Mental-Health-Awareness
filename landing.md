@@ -313,60 +313,64 @@ Explanation: Inhalants can have severe and potentially fatal health consequences
 <section id="eighteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>18. Which category of drugs includes substances that can be purchased without a prescription?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Controlled substances<br>
+B) Prescription medications<br>
+C) Over-the-counter (OTC) drugs<br>
+D) Designer drugs<br>
 		</p>
 		<button onclick="revealText('hiddenText18')">Click to Reveal Answer</button>
-		<p id="hiddenText18" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText18" style="display: none;">C) Over-the-counter (OTC) drugs
+Explanation: OTC drugs are available for purchase without a prescription and are generally considered safe for public use. Example: Common OTC medications include ibuprofen (for pain relief) and diphenhydramine (an antihistamine).</p>
 	</div>
 </section>
 <!-- Nineteen -->
 <section id="nineteen">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>19. Is it possible to combine certain drugs, and what is a notable example of a dangerous combination?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Yes, combining caffeine with aspirin<br>
+B) Yes, combining alcohol with opioids<br>
+C) No, drugs cannot be combined<br>
+D) Yes, combining antihistamines with vitamins<br>
 		</p>
 		<button onclick="revealText('hiddenText19')">Click to Reveal Answer</button>
-		<p id="hiddenText19" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText19" style="display: none;">B) Yes, combining alcohol with opioids
+Explanation: Combining alcohol with opioids is particularly dangerous because both substances depress the central nervous system, increasing the risk of respiratory failure and overdose.</p>
 	</div>
 </section>
 <!-- Twenty -->
 <section id="twenty">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>20. Which of the following combinations of substances is particularly dangerous due to the risk of respiratory failure?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) Alcohol and caffeine<br>
+B) Opioids and benzodiazepines<br>
+C) Cannabis and nicotine<br>
+D) Stimulants and hallucinogens<br>
 		</p>
 		<button onclick="revealText('hiddenText20')">Click to Reveal Answer</button>
-		<p id="hiddenText20" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText20" style="display: none;"> B) Opioids and benzodiazepines
+Explanation: Combining opioids with benzodiazepines significantly increases the risk of respiratory depression, which can lead to overdose and death.</p>
 	</div>
 </section>
 <!-- Twentyone -->
 <section id="twentyone">
 	<div class="inner">
 		<header class="major">
-			<h2>Which of the following substances is classified as a Schedule II controlled substance in the United States?</h2>
+			<h2>21.If someone is in a bad state of mind and needs help withdrawing from drugs, where should they call for support?</h2>
 		</header>
-		<p>A)<br>
-B)<br>
-C)<br>
-D)<br>
+		<p>A) A local pharmacy<br>
+B) A friend’s house<br>
+C) A mental health hotline - 866-903-3787<br>
+D) A social media platform<br>
 		</p>
 		<button onclick="revealText('hiddenText21')">Click to Reveal Answer</button>
-		<p id="hiddenText21" style="display: none;">B) Cocaine</p>
+		<p id="hiddenText21" style="display: none;">C) A mental health hotline
+Explanation: Calling a mental health hotline can provide immediate support and guidance for someone experiencing withdrawal symptoms or a crisis. It's crucial to seek professional help during such challenging times.</p>
 	</div>
 </section>
 
