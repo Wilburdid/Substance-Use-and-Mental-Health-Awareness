@@ -92,9 +92,5 @@ nav-menu: true
     <li><a href="https://www.courts.ca.gov/partners/substanceuse.htm" target="_blank">California Courts. "Short and Long-Term Effects of Substance Use."</a></li>
 </ul>
 
-<footer>
-    <p>© 2024 Understanding Drugs Overview</p>
-</footer>
-
 </body>
 </html>
